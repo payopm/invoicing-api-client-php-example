@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/payopm/invoicing-api-client-php"
+    }
+  ],
+  "require": {
+    "payopm/invoicing-api-client-php": "^1.0"
+  }
+}
